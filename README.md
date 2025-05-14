@@ -1,1 +1,1 @@
-This is my first practive in git and im so excited
+This is my first practice in git and im so excited
